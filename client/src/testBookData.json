@@ -1,0 +1,771 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1597,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "rkvEAQAACAAJ",
+      "etag": "s6N6NoakllQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rkvEAQAACAAJ",
+      "volumeInfo": {
+        "title": "The Doors of Perception and Heaven and Hell",
+        "subtitle": "With Biography and Illustrated Mental Exercises",
+        "authors": ["Aldous Huxley"],
+        "publishedDate": "2017-03-22",
+        "description": "Two great classics come to life in one of the most loved books in American History. Remastered to include Illustrated exercises, a biography of Aldous Huxley, and including the full essay of Heaven and Hell, and The Doors to Perception, this book is a great gift to those who are unfamiliar with his work, or may have forgotten about Huxley's famous contemplations of life and death. - ZKBS(c) All Rights Reserved.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1544816227"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781544816227"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 98,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=rkvEAQAACAAJ&dq=doorsofperception&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=rkvEAQAACAAJ&dq=doorsofperception&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Doors_of_Perception_and_Heaven_and_H.html?hl=&id=rkvEAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rkvEAQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Remastered to include Illustrated exercises, a biography of Aldous Huxley, and including the full essay of Heaven and Hell, and The Doors to Perception, this book is a great gift to those who are unfamiliar with his work, or may have ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tpkpAgAAQBAJ",
+      "etag": "aXlozB7avL4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tpkpAgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Doors Of Perception & Heaven And Hell",
+        "authors": ["Aldous Huxley"],
+        "publisher": "Harper Collins",
+        "publishedDate": "2014-01-01",
+        "description": "Long before the psychedelic drug movement of the 1960s, Aldous Huxley wrote about his mind-expanding experiences taking mescaline and participating in ecstatic meditation in his essays The Doors of Perception and Heaven and Hell. In The Doors of Perception, Huxley blends Eastern mysticism with scientific experimentation to produce one of the most influential works on the effects of hallucinatory drugs on the human psyche. Heaven and Hell focuses on how science, art, religion, literature, and psychoactive drugs can expand the everyday view of reality and offer a more profound grasp of the human experience. Huxley’s essays The Doors of Perception and Heaven and Hell ushered in a whole new generation of counter-culture icons such as Jackson Pollock, John Cage, Timothy Leary and Jim Morrison. In fact, Morrison’s band name The Doors was inspired by The Doors of Perception. HarperTorch brings great works of non-fiction and the dramatic arts to life in digital format, upholding the highest standards in ebook production and celebrating reading in all its forms. Look for more titles in the HarperTorch collection to build your digital library.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781443434492"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1443434493"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 172,
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "averageRating": 4,
+        "ratingsCount": 30,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tpkpAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tpkpAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=tpkpAgAAQBAJ&printsec=frontcover&dq=doorsofperception&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=tpkpAgAAQBAJ&dq=doorsofperception&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Doors_Of_Perception_Heaven_And_Hell.html?hl=&id=tpkpAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Doors_Of_Perception_Heaven_And_Hell-sample-epub.acsm?id=tpkpAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tpkpAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In The Doors of Perception, Huxley blends Eastern mysticism with scientific experimentation to produce one of the most influential works on the effects of hallucinatory drugs on the human psyche."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Nu8XS9J61vgC",
+      "etag": "TyICRiT45NY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Nu8XS9J61vgC",
+      "volumeInfo": {
+        "title": "The Doors of Perception and Heaven and Hell",
+        "authors": ["Aldous Huxley"],
+        "publisher": "Harper Collins",
+        "publishedDate": "2009-09-29",
+        "description": "Half an hour after swallowing the drug I became aware of a slow dance of golden lights . . . Among the most profound explorations of the effects of mind-expanding drugs ever written, here are two complete classic books—The Doors of Perception and Heaven and Hell—in which Aldous Huxley, author of the bestselling Brave New World, reveals the mind's remote frontiers and the unmapped areas of human consciousness. This new edition also features an additional essay, \"Drugs That Shape Men's Minds,\" which is now included for the first time.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780061892820"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0061892823"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "categories": ["Philosophy"],
+        "averageRating": 4,
+        "ratingsCount": 23,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Nu8XS9J61vgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Nu8XS9J61vgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Nu8XS9J61vgC&printsec=frontcover&dq=doorsofperception&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Nu8XS9J61vgC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Nu8XS9J61vgC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 12.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Nu8XS9J61vgC&rdid=book-Nu8XS9J61vgC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Doors_of_Perception_and_Heaven_and_H-sample-epub.acsm?id=Nu8XS9J61vgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Nu8XS9J61vgC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This edition also features an additional essay, &quot;Drugs That Shape Men&#39;s Minds,&quot; now included for the first time. Half an hour after swallowing the drug I became aware of a slow dance of golden lights . . ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fSUhEAAAQBAJ",
+      "etag": "QDaPi0IbTj8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fSUhEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Doors of Perception",
+        "authors": ["Aldous Huxley"],
+        "publisher": "Strelbytskyy Multimedia Publishing",
+        "publishedDate": "2021-03-03",
+        "description": "The Doors of Perception is a philosophical essay, released as a book, by Aldous Huxley. First published in 1954, it details his experiences when taking mescaline. The book takes the form of Huxley's recollection of a mescaline trip that took place over the course of an afternoon in May 1953. The book takes its title from a phrase in William Blake's 1793 poem 'The Marriage of Heaven and Hell'. Huxley recalls the insights he experienced, which range from the \"purely aesthetic\" to \"sacramental vision\". He also incorporates later reflections on the experience and its meaning for art and religion.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PKEY:SMP2300000139136"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fSUhEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fSUhEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=fSUhEAAAQBAJ&pg=PP1&dq=doorsofperception&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=fSUhEAAAQBAJ&dq=doorsofperception&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Doors_of_Perception.html?hl=&id=fSUhEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Doors_of_Perception-sample-epub.acsm?id=fSUhEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Doors_of_Perception-sample-pdf.acsm?id=fSUhEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fSUhEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book takes the form of Huxley&#39;s recollection of a mescaline trip that took place over the course of an afternoon in May 1953. The book takes its title from a phrase in William Blake&#39;s 1793 poem &#39;The Marriage of Heaven and Hell&#39;."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "z83VDAAAQBAJ",
+      "etag": "uFzUl5fDhLE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/z83VDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Opening the Doors of Perception",
+        "subtitle": "The Key to Cosmic Awareness",
+        "authors": ["Anthony Peake"],
+        "publisher": "Watkins Media Limited",
+        "publishedDate": "2016",
+        "description": "\"In 1954 Aldous Huxley’s hugely influential book 'The Doors of Perception' was published. Huxley’s title is taken from William Blake’s 1793 book 'The Marriage of Heaven and Hell'. In this Blake makes the following observation: 'If the doors of perception were cleansed every thing would appear to man as it is, Infinite. For man has closed himself up, till he sees all things thro' narrow chinks of his cavern.' Opening the Doors of Perception updates Huxley’s work and suggest process and procedures whereby man can, indeed, perceive reality in its true glory. The book is in two sections. The first discusses in great detail a concept I first introduced in my book The Daemon: A Guide to Your Extraordinary Secret Self. I termed this the 'scale of transcendence' and suggested that there is a scale of perceptions whereby the doors of perception are slowly opened and, bit by bit, they reveal the true nature of 'reality' as suggested by most esoteric teachings and mystic traditions. Most human beings perceive the doors as being securely closed. However there are occasions when the doors become slightly ajar and allow fleeting glimpses of what the Gnostics called 'The Pleroma'. For 'normal' people these glimpses are experienced during fleeting 'noetic' experiences. However for others the doors are prized upon by certain neurological processes starting with migraine and progressing through various 'altered-states' such as temporal lobe epilepsy, bi-polar syndrome, autism and finally, when the doors are fully open, schizophrenia.\"--Amazon website.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781780289083"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1780289081"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": ["Clinical neuropsychology"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=z83VDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=z83VDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=z83VDAAAQBAJ&printsec=frontcover&dq=doorsofperception&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=z83VDAAAQBAJ&dq=doorsofperception&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Opening_the_Doors_of_Perception.html?hl=&id=z83VDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=z83VDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book is in two sections. The first discusses in great detail a concept I first introduced in my book The Daemon: A Guide to Your Extraordinary Secret Self."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nZ0pAgAAQBAJ",
+      "etag": "zxchJNDZC6s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nZ0pAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Heaven And Hell",
+        "authors": ["Aldous Huxley"],
+        "publisher": "Harper Collins",
+        "publishedDate": "2014-01-01",
+        "description": "Inspired by the poetry of William Blake, Heaven and Hell delves into the murky topic of human consciousness through a discussion of religious mystical perception, biochemistry and psychoactive drug experimentation. Heaven and Hell explains how science, art, religion, literature, and psychoactive drugs can expand the reader’s everyday view of reality, offering a more profound grasp of the human experience. Like his earlier essay, The Doors of Perception, Aldous Huxley’s Heaven and Hell exerted a tremendous influence on the counter-culture movement of the 1960s, inspiring the imaginations of an entire generation of artists and revolutionaries like Jim Morrison and Jackson Pollack. HarperTorch brings great works of non-fiction and the dramatic arts to life in digital format, upholding the highest standards in ebook production and celebrating reading in all its forms. Look for more titles in the HarperTorch collection to build your digital library.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781443434508"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1443434507"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 102,
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nZ0pAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nZ0pAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=nZ0pAgAAQBAJ&printsec=frontcover&dq=doorsofperception&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=nZ0pAgAAQBAJ&dq=doorsofperception&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Heaven_And_Hell.html?hl=&id=nZ0pAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Heaven_And_Hell-sample-epub.acsm?id=nZ0pAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nZ0pAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Look for more titles in the HarperTorch collection to build your digital library."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3DumTC7CtDYC",
+      "etag": "XndoQx4S8sU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3DumTC7CtDYC",
+      "volumeInfo": {
+        "title": "The Divine Within",
+        "subtitle": "Selected Writings on Enlightenment",
+        "authors": ["Aldous Huxley", "Huston Smith"],
+        "publisher": "Harper Collins",
+        "publishedDate": "2013-07-02",
+        "description": "Brave New World author Aldous Huxley on enlightenment and the \"ultimate reality\" In this anthology of twenty-six essays and other writings, Huxley discusses the nature of God, enlightenment, being,good and evil, religion, eternity, and the divine. Huxley consistently examined the spiritual basis of both the individual and human society, always seeking to reach an authentic and clearly defined experience of the divine. Featuring an introduction by renowned religious scholar Huston Smith, this celebration of \"ultimate reality\" proves relevant and prophetic in addressing the spiritual hunger so many feel today.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780062236838"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0062236830"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": ["Philosophy"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3DumTC7CtDYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3DumTC7CtDYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=3DumTC7CtDYC&printsec=frontcover&dq=doorsofperception&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3DumTC7CtDYC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3DumTC7CtDYC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 6.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=3DumTC7CtDYC&rdid=book-3DumTC7CtDYC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Divine_Within-sample-epub.acsm?id=3DumTC7CtDYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3DumTC7CtDYC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "“A genius . . . a writer who spent his life decrying the onward march of the Machine.” — The New Yorker Brave New World author Aldous Huxley on enlightenment and the &quot;ultimate reality&quot; In this anthology of twenty-six essays and other ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ze1aNQAACAAJ",
+      "etag": "OOFoWruYqnc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ze1aNQAACAAJ",
+      "volumeInfo": {
+        "title": "Cleansing the Doors of Perception",
+        "subtitle": "The Religious Significance of Entheogentic Plants and Chemicals",
+        "authors": ["Huston Smith"],
+        "publishedDate": "2003-01-01",
+        "description": "This book takes a serious look at the use of psychedelic drugs as a means to achieve mystical union with the divine.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1591810086"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781591810087"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 173,
+        "printType": "BOOK",
+        "categories": ["Body, Mind & Spirit"],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ze1aNQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ze1aNQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ze1aNQAACAAJ&dq=doorsofperception&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ze1aNQAACAAJ&dq=doorsofperception&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cleansing_the_Doors_of_Perception.html?hl=&id=ze1aNQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ze1aNQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book takes a serious look at the use of psychedelic drugs as a means to achieve mystical union with the divine."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "V8_TVLDZ7W4C",
+      "etag": "WfZSuyEv9+U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/V8_TVLDZ7W4C",
+      "volumeInfo": {
+        "title": "The Doors of Perception and Heaven and Hell",
+        "authors": ["Aldous Huxley"],
+        "publisher": "Harper Collins",
+        "publishedDate": "2009-09-29",
+        "description": "Among the most profound and influential explorations of mind-expanding psychadelic drugs ever written, here are two complete classic books—The Doors of Perception and Heaven and Hell—in which Aldous Huxley, author of Brave New World, reveals the mind's remote frontiers and the unmapped areas of human consciousness. This new edition also features an additional essay, \"Drugs That Shape Men's Minds,\" which is now included for the first time. \"A genuine spiritual quest. ... Extraordinary.\" — New York Times",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780061892820"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0061892823"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "categories": ["Philosophy"],
+        "averageRating": 4,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=V8_TVLDZ7W4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=V8_TVLDZ7W4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "un",
+        "previewLink": "http://books.google.com/books?id=V8_TVLDZ7W4C&dq=doorsofperception&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=V8_TVLDZ7W4C&dq=doorsofperception&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Doors_of_Perception_and_Heaven_and_H.html?hl=&id=V8_TVLDZ7W4C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=V8_TVLDZ7W4C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This edition also features an additional essay, &quot;Drugs That Shape Men&#39;s Minds,&quot; now included for the first time. Half an hour after swallowing the drug I became aware of a slow dance of golden lights . . ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fmIoDwAAQBAJ",
+      "etag": "4eQJyylQC0k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fmIoDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Plant Intelligence and the Imaginal Realm",
+        "subtitle": "Beyond the Doors of Perception into the Dreaming of Earth",
+        "authors": ["Stephen Harrod Buhner"],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2014-05-14",
+        "description": "A manual for opening the doors of perception and directly engaging the intelligence of the Natural World • Provides exercises to directly perceive and interact with the complex, living, self-organizing being that is Gaia • Reveals that every life form on Earth is highly intelligent and communicative • Examines the ecological function of invasive plants, bacterial resistance to antibiotics, psychotropic plants and fungi, and the human species In Plant Intelligence and the Imaginal Realm, Stephen Harrod Buhner reveals that all life forms on Earth possess intelligence, language, a sense of I and not I, and the capacity to dream. He shows that by consciously opening the doors of perception, we can reconnect with the living intelligences in Nature as kindred beings, become again wild scientists, nondomesticated explorers of a Gaian world just as Goethe, Barbara McClintock, James Lovelock, and others have done. For as Einstein commented, “We cannot solve the problems facing us by using the same kind of thinking that created them.” Buhner explains how to use analogical thinking and imaginal perception to directly experience the inherent meanings that flow through the world, that are expressed from each living form that surrounds us, and to directly initiate communication in return. He delves deeply into the ecological function of invasive plants, bacterial resistance to antibiotics, psychotropic plants and fungi, and, most importantly, the human species itself. He shows that human beings are not a plague on the planet, they have a specific ecological function as important to Gaia as that of plants and bacteria. Buhner shows that the capacity for depth connection and meaning-filled communication with the living world is inherent in every human being. It is as natural as breathing, as the beating of our own hearts, as our own desire for intimacy and love. We can change how we think and in so doing begin to address the difficulties of our times.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781591438366"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1591438365"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 576,
+        "printType": "BOOK",
+        "categories": ["Body, Mind & Spirit"],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fmIoDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fmIoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=fmIoDwAAQBAJ&printsec=frontcover&dq=doorsofperception&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fmIoDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fmIoDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 16.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 16.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=fmIoDwAAQBAJ&rdid=book-fmIoDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 16990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 16990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Plant_Intelligence_and_the_Imaginal_Real-sample-epub.acsm?id=fmIoDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fmIoDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A manual for opening the doors of perception and directly engaging the intelligence of the Natural World • Provides exercises to directly perceive and interact with the complex, living, self-organizing being that is Gaia • Reveals that ..."
+      }
+    }
+  ]
+}
