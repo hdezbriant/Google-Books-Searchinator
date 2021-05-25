@@ -9,6 +9,7 @@ import BookSearchPage from "./components/BookSearch";
 import SavedBooksPage from "./components/SavedBooks";
 // import { useEffect } from "react";
 import NavBar from "./components/NavBar";
+import Footer from "./components/Footer";
 
 function App() {
   // =============== TEST FETCH REQUEST =============
@@ -20,7 +21,7 @@ function App() {
   // });
   // ============== TEST FETCH REQUEST ==============
   return (
-    <div className="bg-dark">
+    <div className="bg-dark vh-100">
       <Router>
         <NavBar />
         <Switch>
@@ -32,6 +33,7 @@ function App() {
           </Route>
           <Redirect to="/" />
         </Switch>
+        <Footer />
       </Router>
     </div>
   );
