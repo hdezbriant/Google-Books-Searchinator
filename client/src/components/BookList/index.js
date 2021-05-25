@@ -1,5 +1,14 @@
+import BookCard from "../BookCard";
+import Section from "../Section";
+
 function BookList() {
-    return <h1> BookList </h1>
+  return (
+    <Section title="Results">
+      <BookCard />
+      <BookCard />
+      <BookCard />
+    </Section>
+  );
 }
 
-export default BookList
+export default BookList;
