@@ -1,6 +1,6 @@
 import Section from "../Section";
 
-function SearchBox() {
+function SearchForm() {
   return (
     <Section title="Search for a Book!">
       <form className="d-flex flex-column">
@@ -20,4 +20,4 @@ function SearchBox() {
   );
 }
 
-export default SearchBox;
+export default SearchForm;

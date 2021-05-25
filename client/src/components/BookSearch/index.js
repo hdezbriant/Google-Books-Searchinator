@@ -1,5 +1,5 @@
 import Hero from "../Hero";
-import SearchBox from "../SearchBox";
+import SearchForm from "../SearchForm";
 import BookList from "../BookList";
 import Wrapper from "../Wrapper";
 
@@ -7,7 +7,7 @@ function BookSearchPage() {
   return (
     <Wrapper>
       <Hero />
-      <SearchBox />
+      <SearchForm />
       <BookList />
     </Wrapper>
   );
