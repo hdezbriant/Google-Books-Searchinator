@@ -1,27 +1,17 @@
-import { Link, NavLink, useLocation } from "react-router-dom";
+import { Link } from "react-router-dom";
+import NavItem from "./NavItem";
 
 function NavBar() {
-  const { pathname } = useLocation();
   return (
     <nav className="navbar navbar-dark bg-dark">
       <Link className="navbar-brand" to="/">
         Google Books Searchinator
       </Link>
       <ul className="navbar-nav flex-row mr-auto">
-        <li className="nav-item mx-3">
-          <NavLink className="nav-link" exact to="/">
-            Search{" "}
-            {pathname === "/" && <span className="sr-only">(current)</span>}
-          </NavLink>
-        </li>
-        <li className="nav-item">
-          <NavLink className="nav-link" to="/saved">
-            Saved Books{" "}
-            {pathname === "/saved" && (
-              <span className="sr-only">(current)</span>
-            )}
-          </NavLink>
-        </li>
+        <NavItem exact to="/">
+          Search
+        </NavItem>
+        <NavItem to="/saved">Saved Books</NavItem>
       </ul>
     </nav>
   );
