@@ -1,12 +1,13 @@
 import BookCard from "../BookCard";
 import Section from "../Section";
+import { items as books } from "../../testBookData.json";
 
 function BookList() {
   return (
     <Section title="Results">
-      <BookCard />
-      <BookCard />
-      <BookCard />
+      {books.map((book) => (
+        <BookCard book={book} />
+      ))}
     </Section>
   );
 }
