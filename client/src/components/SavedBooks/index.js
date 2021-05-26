@@ -3,10 +3,11 @@ import Hero from "../Hero";
 import Wrapper from "../Wrapper";
 
 function SavedBooksPage() {
+  
   return (
     <Wrapper>
       <Hero />
-      <BookList />
+      <BookList books={[]}/>
     </Wrapper>
   );
 }
