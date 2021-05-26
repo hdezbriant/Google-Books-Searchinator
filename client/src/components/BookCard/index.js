@@ -1,6 +1,5 @@
 function BookCard({ book }) {
   const { title, authors, description, imageLinks, infoLink } = book.volumeInfo;
-  console.log(imageLinks);
   return (
     <div className="card mb-3 bg-dark">
       <div className="row no-gutters">
