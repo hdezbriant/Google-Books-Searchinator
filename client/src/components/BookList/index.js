@@ -1,13 +1,14 @@
 import BookCard from "../BookCard";
 import Section from "../Section";
-import { items as books } from "../../testBookData.json";
 
-function BookList() {
+function BookList({ books }) {
   return (
     <Section title="Results">
-      {books.map((book) => (
-        <BookCard book={book} />
-      ))}
+      {books.length > 0 ? (
+        books.map((book) => <BookCard key={book.id} book={book} />)
+      ) : (
+        <p className="text-danger">No results to display!</p>
+      )}
     </Section>
   );
 }
