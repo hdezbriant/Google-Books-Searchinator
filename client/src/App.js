@@ -21,7 +21,7 @@ function App() {
   // });
   // ============== TEST FETCH REQUEST ==============
   return (
-    <div className="bg-dark vh-100">
+    <div className="bg-dark">
       <Router>
         <NavBar />
         <Switch>
