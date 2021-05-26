@@ -1,6 +1,20 @@
-# Create React Express App
+# Google Books Searchinator
+
+This app provides a simple ui with which you may searh the Google Books API and see information of the books that were searched for.
+The results will provide lots of useful information, such as the Author, a short description of the book, and a link to view more detailed information
+by clicking the "view" button.
+
+Simply type in the book you want to search for in the search field, and hit Submit! Easy.
+
+![Searchinator](googlebookssample.png)
+
+## Future Development
+
+This app is still in early development, and in the future will allow users to save a personal "reading list" of books that were searched for.
+This feature has not yet been implemented, but soon™!
 
 ## About This Boilerplate
+(This App was created using a boilerplate provided by [a powerful wizard](github.com/median-man) Thank you so much for your help!)
 
 This setup allows for a Node/Express/React app which can be easily deployed to Heroku.
 
